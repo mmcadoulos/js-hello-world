@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('I shall type up the number "8"',"on a separate line by using an equation");console.log(256/32)
 
 /*  
 Next, PLAY! 
